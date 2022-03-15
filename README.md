@@ -35,11 +35,11 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01&count_private=true&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01)](https://github.com/japnit01/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01&count_private=true)](https://github.com/japnit01/github-readme-stats)
  
  ---
  
@@ -49,7 +49,7 @@
 
 
 <!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=japnit01)  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=japnit01&count_private=true&show_icons=true)  
  
  
  <hr>
