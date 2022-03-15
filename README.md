@@ -39,7 +39,7 @@
  
  ---
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01&count_private=true)](https://github.com/japnit01/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01&count_private=true&theme=algolia)](https://github.com/japnit01/github-readme-stats)
  
  ---
  
