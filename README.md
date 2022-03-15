@@ -35,7 +35,7 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01&count_private=true&theme=algolia&hide=jupyter%20notebook&langs_count=8&exclude_repo=Handwritten_digits,Tak2-IIIT-DELHI)](https://github.com/japnit01/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01&count_private=true&theme=algolia&langs_count=8&exclude_repo=Handwritten_digits,Tak2-IIIT-DELHI)](https://github.com/japnit01/github-readme-stats)
  
  ---
  
@@ -65,5 +65,3 @@
   </code>
 </p>
 
-
- -->
