@@ -23,7 +23,7 @@
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-Japnit Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/japnitsingh/)](https://www.linkedin.com/in/japnitsingh/)
+[![Linkedin Badge](https://img.shields.io/badge/-JapnitSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/japnitsingh/)](https://www.linkedin.com/in/japnitsingh/)
 
 [![Gmail Badge](https://img.shields.io/badge/-japnit2012@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:japnit2012@gmail.com)](mailto:japnit2012@gmail.com)
 
@@ -35,7 +35,11 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ---
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01)](https://github.com/japnit01/github-readme-stats)
  
  ---
  
