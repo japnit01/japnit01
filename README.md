@@ -49,7 +49,7 @@
 
 
 <!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=japnit01&count_private=true&show_icons=true)  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=japnit01&count_private=true&show_icons=true&theme=algolia)  
  
  
  <hr>
