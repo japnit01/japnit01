@@ -11,7 +11,7 @@
 
 ✔️ I am interested in development. I also enjoy doing competitive programming. <br>
 
-✔️ I have experience in FULL stack web development .<br>
+✔️ I have experience in FULL stack web development and Deep Learning.<br>
 
 ✔️ I have been the participant of  open-source event such as HacktoberFest'20.
 
