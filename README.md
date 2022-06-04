@@ -35,7 +35,7 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01&count_private=true&theme=algolia&langs_count=7&exclude_repo= Handwritten_digits,Handrwitten-digits-letter-Recognition)](https://github.com/japnit01/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japnit01&count_private=true&theme=algolia&langs_count=7&exclude_repo=Handwritten_digits,Handrwitten-digits-letter-Recognition)](https://github.com/japnit01/github-readme-stats)
  
  ---
  
