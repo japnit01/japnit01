@@ -44,8 +44,8 @@
 ![visitors](https://profile-counter.glitch.me/japnit01/count.svg?align=center)
 
 
-<!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=japnit01&count_private=true&show_icons=true&theme=algolia)  
+<!-- GITHUB STATISTICS 
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=japnit01&count_private=true&show_icons=true&theme=algolia)  -->
  
  
  <hr>
